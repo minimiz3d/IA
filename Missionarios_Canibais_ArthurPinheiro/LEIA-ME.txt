@@ -1,0 +1,14 @@
+Todas as classes que implementam o problema e a busca estão no arquivo 'Classes.py'.
+O arquivo 'main.py' apenas executa o programa.
+
+1) Para a execução do programa:
+    1.1) python main.py
+    1.2) Depois, insira os valores pedidos (número de missionários e canibais e também quantas pessoas cabem no barco).
+
+2) A documentação foi gerada com uso do padrão 'Doxygen'. Os arquivos obtidos, estão na pasta html.
+Para verificar a documentação obtida:
+    2.1) cd html
+    2.2) <nome-do-browser-de-preferência> annotated.html
+
+3) Além disso, na pasta 'Prints' estão prints dos resultados com o seguinte padrão:
+    * MissionariosCanibais_(numMissionarios, numCanibais, tamanhoBarco).
